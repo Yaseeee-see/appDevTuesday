@@ -10,6 +10,7 @@ public class Week5 {
         Arevalo.display();
         Artiaga.display();
         Balais.display();
+        Baluyos.display();
         Banaag.display();
         Bendoy.display();
         Berte.display();
